@@ -1,0 +1,109 @@
+/*******************************my own css************************************************/
+/*******************************my own css************************************************/
+/*******************************my own css************************************************/
+/*******************************my own css************************************************/
+
+.users{
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: center;
+    background:rgb(214, 83, 83) !important;
+    border-radius: 10px 10px;
+}
+.users svg{
+    font-size: 40px;
+}
+
+.tracks{
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: center;
+    background:rgb(83, 214, 148) !important;
+    border-radius: 10px 10px;
+}
+
+.tracks svg{
+    font-size: 40px;
+}
+
+.active_tracks{
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: center;
+    background:rgb(151, 83, 214) !important;
+    border-radius: 10px 10px;
+}
+.active_tracks svg{
+    font-size: 40px;
+}
+
+.inactive_tracks{
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: center;
+    background:rgb(205, 214, 83) !important;
+    border-radius: 10px 10px;
+}
+
+.inactive_tracks svg{
+    font-size: 40px;
+}
+
+.create_track{
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: center;
+    background:rgb(199, 83, 214) !important;
+    border-radius: 10px 10px;
+}
+
+.create_track svg{
+    font-size: 40px;
+}
+
+.add_user{
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: center;
+    background:rgb(214, 83, 170) !important;
+    border-radius: 10px 10px;
+}
+
+.add_user svg{
+    font-size: 40px;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.track_list{
+    background-color: rgb(253, 253, 253) !important;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    border-radius: 10px 10px;
+    color:rgb(80, 79, 79);
+    box-shadow: 1px 1px 5px 1px  #a7a7a7;
+
+}
+
+.active_profile{
+    color:green !important;
+}
+
+.color_line{
+    padding-top: 40px ;
+    background-color: #eee;
+    width: 2px;
+}
+
+.color_round{
+    width: 10px;
+    padding-top: 10px;
+    background-color: #eee;
+    border-radius: 50%;
+}
+
+.carousel-item{
+    height: 60vh;
+}
